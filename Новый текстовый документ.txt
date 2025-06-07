@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Invest in Ukraine</title>
+</head>
+<body>
+  <h1>Invest in Ukrainian Land</h1>
+  <p>We offer fertile land in Zakarpattia region for agriculture and business. Contact Vasil: vaskome.lip8@gmail.com</p>
+</body>
+</html>
